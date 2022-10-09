@@ -27,7 +27,7 @@ public class IsLinkedListPalindrome {
 	 * list by reversing the second half again and attaching it back to the first
 	 * half
 	 */
-	class ListNode<T> {
+	public class ListNode<T> {
 		ListNode(T x) {
 			value = x;
 		}
